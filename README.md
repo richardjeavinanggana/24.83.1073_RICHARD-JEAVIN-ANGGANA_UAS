@@ -1,7 +1,7 @@
 # Tugas UAS Python: Sistem Manajemen Mahasiswa
 
-Nama: [Nama Kamu]
-NIM: [NIM Kamu]
+Nama: [RICHARD JEAVIN ANGGANA]
+NIM: [24.83.1073]
 
 ## Cara Menjalankan
 1. Jalankan Server: `uvicorn server:app --reload`
